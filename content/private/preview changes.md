@@ -40,4 +40,4 @@ make serve
 
 Now that you are happy with how your Quartz instance looks, let's get it hosted!
 
-> 🌍 Step 5: [Hosting Quartz online!](notes/hosting.md)
+> 🌍 Step 5: [Hosting Quartz online!](private/hosting.md)
