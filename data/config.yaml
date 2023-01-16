@@ -1,4 +1,4 @@
-name: Souren Papazian
+name: sourencho
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -7,7 +7,7 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
@@ -20,7 +20,7 @@ search:
 description:
   Pico Workshop Homepage
 page_title:
-  "🪴 Pico Workshop"
+  "👾 Pico Workshop"
 links:
   - link_name: Twitter
     link: https://twitter.com/sourencho
