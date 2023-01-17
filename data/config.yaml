@@ -1,6 +1,6 @@
 name: sourencho
-enableToc: true
-openToc: false
+enableToc: false
+openToc: true
 enableLinkPreview: false
 enableLatex: true
 enableCodeBlockTitle: true
@@ -20,7 +20,7 @@ search:
 description:
   Pico Workshop Homepage
 page_title:
-  "👾 Pico Workshop"
+  "picoworkshop.xyz"
 links:
   - link_name: Twitter
     link: https://twitter.com/sourencho
