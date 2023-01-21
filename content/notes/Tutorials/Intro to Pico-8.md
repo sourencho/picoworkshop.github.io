@@ -15,6 +15,15 @@ Pico-8 can be run in your browser for free at [pico-8.edu.com](https://www.pico-
 
 ![[notes/images/pico8_edu_release.gif]]
 
+## Examples
+
+People make cool visuals and games!
+
+- Homepage: [www.lexaloffle.com/pico-8.php](https://www.lexaloffle.com/pico-8.php)
+- Demos: `INSTALL_DEMOS`
+- BBS: [Lines](https://www.lexaloffle.com/bbs/?pid=64653#p)
+- Celeste:  `LOAD #15133`
+
 
 ## Demo
 
