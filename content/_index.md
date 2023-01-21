@@ -3,7 +3,7 @@ title: Pico Workshop.
 enableToc: false
 ---
 
-<img src="/notes/images/pico8_postcard.png" alt="drawing" width="380"/>
+<img src="/notes/images/pico8_postcard.png" alt="pico8" width="380"/>
 
 Pico-8 Creative Coding Workshop!
 - [[notes/our_creations/Our Creations]]
@@ -19,4 +19,4 @@ Materials
 - [[notes/resources/Cheatsheet]]
 - [[notes/ideas/Ideas]]
 - [[notes/examples/Examples]]
--  [[notes/resources/Resources]]
+- [[notes/resources/Resources]]
