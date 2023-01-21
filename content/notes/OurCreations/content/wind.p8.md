@@ -3,7 +3,7 @@
 title: "wind.p8"
 ---
 
-![[notes/our_creations/gifs/sourencho_wind_0.gif]]
+![[notes/OurCreations/gifs/sourencho_wind_0.gif]]
 
 Credit
 - sourencho
