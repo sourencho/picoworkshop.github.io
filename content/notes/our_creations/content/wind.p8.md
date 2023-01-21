@@ -1,10 +1,20 @@
+
+---
+title: "wind.p8"
+---
+
 ![[notes/our_creations/gifs/sourencho_wind_0.gif]]
 
-Link:
+Credit
+- sourencho
+- February 2022
+
+Link
 
 https://www.pico-8-edu.com/?c=AHB4YQENAPkC4EeEyyukxiwGBiYwZnBmcUdRRMGtxwYGRkFHh1FHR2GMbQ4FJkUBrkfGRSZHJkfB7E0OJK0HhsUNhOxNIcGsB04lTSEhryemBSXtxU1FJkUhQa5nLk4O4BGWT9h-ifnCDi9x0NlP8Azl7UeUzzA09BRt_QCv4MXro7g-JYw3jjloIEuawjDp6TcddNVJgWbIVVelfd5aYcsqgZVWhq6fOX9mSGLgIZbyWElkMBsakQ8ZG3uJcqjspyZarZEJlYB4xhuFGsEzTIw8QTd02lCRlDtN1Ew0e3sbG_lEmJkjrqd2FicmHqIdyR5hdK246nEq&g=w-w-w-w1HQHw-w2Xw-w3Xw-w2HQH
 
-Code:
+Code
+
 ```lua
 ?"\^!5f100▒1⬇️3⬅️;⌂"
 n=600
