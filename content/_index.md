@@ -3,18 +3,20 @@ title: Pico Workshop.
 enableToc: false
 ---
 
+<img src="/notes/images/pico8_postcard.png" alt="drawing" width="380"/>
+
 Pico-8 Creative Coding Workshop!
-- [[notes/Our Creations/Our Creations]]
+- [[notes/our_creations/Our Creations]]
 
 Tutorials
-- [[notes/Tutorials/Intro to Pico-8]]
-- [[notes/Tutorials/Getting started with Pico-8]]
-- [[notes/Tutorials/Lines, Shapes and Colors]]
-- [[notes/Tutorials/Animating with Sin waves]]
-- [[notes/Tutorials/Dithering Effect]]
+- [[notes/tutorials/Intro to Pico-8]]
+- [[notes/tutorials/Getting started with Pico-8]]
+- [[notes/tutorials/Lines, Shapes and Colors]]
+- [[notes/tutorials/Animating with Sin waves]]
+- [[notes/tutorials/Dithering Effect]]
 
 Materials
-- [[notes/Resources/Cheatsheet]]
-- [[notes/Ideas/Ideas]]
-- [[notes/Examples/Examples]]
--  [[notes/Resources/Resources]]
+- [[notes/resources/Cheatsheet]]
+- [[notes/ideas/Ideas]]
+- [[notes/examples/Examples]]
+-  [[notes/resources/Resources]]

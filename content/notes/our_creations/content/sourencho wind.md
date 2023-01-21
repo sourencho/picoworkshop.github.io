@@ -1,4 +1,4 @@
-![[notes/Our Creations/gifs/sourencho_wind_0.gif]]
+![[notes/our_creations/gifs/sourencho_wind_0.gif]]
 
 Link:
 
