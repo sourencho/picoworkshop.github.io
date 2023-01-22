@@ -1,4 +1,4 @@
----
+ ---
 title: Pico Workshop.
 enableToc: false
 ---
@@ -16,7 +16,7 @@ Tutorials
 - [[notes/Tutorials/Dithering Effect]]
 
 Materials
-- [[notes/Resources/Cheatsheet]]
-- [[notes/Ideas/Ideas]]
-- [[notes/examples/Examples]]
-- [[notes/Resources/Resources]]
+- [[notes/Misc/Cheatsheet]]
+- [[notes/Misc/Ideas]]
+- [[notes/Misc/Examples]]
+- [[notes/Misc/Resources]]
