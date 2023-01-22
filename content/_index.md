@@ -1,6 +1,5 @@
- ---
-title: Pico Workshop.
-enableToc: false
+---
+title: Pico Workshop
 ---
 
 <img src="/notes/images/pico8_postcard.png" alt="pico8" width="380"/>
@@ -20,3 +19,6 @@ Materials
 - [[notes/Misc/Ideas]]
 - [[notes/Misc/Examples]]
 - [[notes/Misc/Resources]]
+
+Misc
+- [[notes/Misc/About]]
