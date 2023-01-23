@@ -4,7 +4,7 @@ title: "Text, Lines, Shapes & Color"
 
 ##  Let's draw with code!
 
-## Circle
+## Hello Circle
 
 Pico-8 has a special function `_draw` that executes over and over
 
@@ -25,7 +25,7 @@ The screen is 128x128 pixels and the X and Y values flow right and down. To pick
 ![[notes/images/circfill.gif]]
 
 
-### Let's move things around!
+### Move things around!
 
 There is another special function `_init` that is executes once at the start.
 
@@ -71,19 +71,39 @@ function _draw()
 end
 ```
 
-### Exercise: Make the ball go diagonally
-
-Make sure it loops!
-
 ![[notes/images/diagonal.gif]]
+
+### Draw with loops
+
+A `for` loop allows you to iterate a variables value from one number to another
+
+```lua
+function _draw()
+  -- clear screen
+  cls()
+
+  -- will loop i from 1 to 6
+  --
+  -- equivalent to:
+  -- circfill(1*10, 1*10, 1, 1+7)
+  -- circfill(2*10, 2*10, 2, 2+7)
+  -- circfill(3*10, 3*10, 3, 3+7)
+  -- circfill(4*10, 4*10, 4, 4+7)
+  -- circfill(5*10, 5*10, 5, 5+7)
+  -- circfill(6*10, 6*10, 6, 6+7)
+  for i=1,6 do
+    circfill(i*10, i*10, i, i+7)
+  end
+end
+```
+
+![[notes/images/forloop.png]]
 
 ### Exercise: Draw a scene
 
-Draw a moving picture using circles, rectangles, lines and/or text.
+Draw a cool picture using circles, rectangles, lines and/or text.
 
 You can refer to the [[notes/Misc/Cheatsheet]] to find code for shapes.
-
-For example a flower, face, house, abstract art~
 
 ### Appendix
 
