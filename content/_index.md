@@ -10,7 +10,7 @@ Pico-8 Creative Coding Workshop!
 Tutorials
 - [[notes/Tutorials/Intro to Pico-8]]
 - [[notes/Tutorials/Getting started with Pico-8]]
-- [[notes/Tutorials/Lines, Shapes and Colors]]
+- [[notes/Tutorials/Text, Lines, Shapes and Colors]]
 - [[notes/Tutorials/Animating with Sin waves]]
 - [[notes/Tutorials/Dithering Effect]]
 

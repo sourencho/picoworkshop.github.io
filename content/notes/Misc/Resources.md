@@ -5,7 +5,8 @@ title: "Resources"
 Pico-8 Resources
 - Handy
 	- [[notes/Misc/Cheatsheet]]
-	- [[notes/Misc/Palette Maker]] 
+	- [[notes/Misc/Palette Maker]]
+	- https://nerdyteachers.com/PICO-8/Guide/
 - Lua
 	- [Demoman: Intro to Lua](https://demoman.net/?a=intro-to-lua)  
 - Other

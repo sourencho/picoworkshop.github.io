@@ -38,7 +38,3 @@ Open [pico-8-edu.com](https://www.pico-8-edu.com/) and start trying out commands
 
 All of this is in the [[notes/Misc/Cheatsheet]] so don't worry about memorizing it!
 
-##  Let's learn to draw with code!
-
-TODO
-
