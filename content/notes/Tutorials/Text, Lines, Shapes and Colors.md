@@ -2,9 +2,7 @@
 title: "Text, Lines, Shapes & Color"
 ---
 
-##  Let's draw with code!
-
-## Hello Circle
+### Hello Circle
 
 Pico-8 has a special function `_draw` that executes over and over
 
@@ -99,11 +97,51 @@ end
 
 ![[notes/images/forloop.png]]
 
-### Exercise: Draw a scene
+#### Exercise
 
-Draw a cool picture using circles, rectangles, lines and/or text.
+Can you recreate this using `clr` , `if`, `for` and shape functions?
 
 You can refer to the [[notes/Misc/Cheatsheet]] to find code for shapes.
+
+![[notes/images/rainbow_screen.png]]
+
+And this
+
+![[notes/images/for_circle.gif]]
+
+### Draw with random
+
+The function `rnd(n)` will return a random number between 0 and n.
+
+```lua
+function _draw()
+  x = rnd(128)
+  y = rnd(128)
+  c = rnd(8)
+
+  circfill(x, y, 8, c+8)
+end
+```
+
+![[notes/images/random_demo.gif]]
+
+#### Exercise
+
+Try drawing something fun with random!
+
+### Draw for fun
+
+Now just play with what you've learned to draw whatever you feel like!
+
+Don't forget to refer to the [[notes/Misc/Cheatsheet]] if you need.
+
+Here are some examples for inspiration!!
+
+> TODO EXAMPLES
+
+## Next
+
+> TODO
 
 ### Appendix
 

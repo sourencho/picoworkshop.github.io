@@ -2,7 +2,7 @@
 title: "Intro to Pico-8"
 ---
 
-## Intro
+### Intro
 
 We will be making visuals in Pico-8 which is a fantasy console for making, sharing and playing tiny games and other computer programs.
 
@@ -15,7 +15,7 @@ Pico-8 can be run in your browser for free at [pico-8.edu.com](https://www.pico-
 
 ![[notes/images/pico8_edu_release.gif]]
 
-## Examples
+### Examples
 
 People make cool visuals and games!
 
@@ -25,7 +25,7 @@ People make cool visuals and games!
 - Celeste:  `LOAD #15133`
 
 
-## Demo
+### Demo
 
 I'll show you a quick visual made with math!
 
@@ -59,3 +59,7 @@ end
    `CTR+7` & `SAVE DEMO.P8.PNG`
    
    ![[notes/images/demo.p8.png]]
+
+### Next
+
+Next we will make our first cart in Pico-8: [[notes/Tutorials/Getting started with Pico-8]]
