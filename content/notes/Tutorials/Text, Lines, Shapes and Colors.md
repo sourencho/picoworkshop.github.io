@@ -145,4 +145,8 @@ Here are some examples for inspiration!!
 
 ### Appendix
 
-*Some material in this tutorial is taken from [# Intro to Pico-8 Programming](https://demoman.net/?a=intro-to-lua)*
+Tips
+- You can capture screenshoits with `ctrl-6` and gifs with `ctrl-8` then `ctrl-9`. You will see an image popup on the top right that you can right click and save.
+
+Credit
+- The red circle examples and animations were taken from [# Intro to Pico-8 Programming](https://demoman.net/?a=intro-to-lua)
