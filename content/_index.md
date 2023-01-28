@@ -13,6 +13,10 @@ Tutorials
 - [[notes/Tutorials/Text, Lines, Shapes and Colors]]
 - [[notes/Tutorials/Animating with Sin waves]]
 - [[notes/Tutorials/Dithering Effect]]
+- [[notes/Tutorials/Color by Position]]
+- [[notes/Tutorials/Particles]]
+- [[notes/Tutorials/Simulations]]
+- [[notes/Tutorials/Curves and Rotation]]
 
 Materials
 - [[notes/Misc/Cheatsheet]]
