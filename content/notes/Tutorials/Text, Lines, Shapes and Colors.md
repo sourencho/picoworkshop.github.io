@@ -143,7 +143,7 @@ Here are some examples for inspiration!!
 
 ## Next
 
-⭐️ [[notes/Tutorials/Animating with Sin waves]]
+⭐️ [[notes/Tutorials/Animating with the Sin function]]
 
 <hr>
 

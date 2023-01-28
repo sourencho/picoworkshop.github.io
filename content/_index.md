@@ -11,7 +11,7 @@ Tutorials
 - [[notes/Tutorials/Intro to Pico-8]]
 - [[notes/Tutorials/Getting started with Pico-8]]
 - [[notes/Tutorials/Text, Lines, Shapes and Colors]]
-- [[notes/Tutorials/Animating with Sin waves]]
+- [[notes/Tutorials/Animating with the Sin function]]
 - [[notes/Tutorials/Dithering Effect]]
 - [[notes/Tutorials/Color by Position]]
 - [[notes/Tutorials/Particles]]

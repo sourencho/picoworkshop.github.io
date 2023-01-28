@@ -1,14 +1,22 @@
 ---
-title: "Animating with Sin waves"
+title: "Animating with the Sin function"
 ---
 
 ⭐️ In this tutorial we will learn how to use `sin` to create movement!
 
 ### Hello Sin Circle
 
-The function `sin` is very useful because if you feed it time `t()`  it will grow and then shrink and then grow and then shrink forever.
+The function `sin` is very useful because if you feed it time `t()`  it will grow and shrink and grow and shrink forever.
 
-So if we use for the size of a circle, the circle will grow and shrink. The value fluctuates from -1 to 1 to -1 to 1. If we want a bigger value we can multiply it to get a bigger range: `10*sin(t())` will go from -10 to 10 to -10 to 10.
+The value fluctuates from -1 to 1 to -1 to 1.
+
+<img src="/notes/images/sin_wave.png" alt="sin_wave" width="500"/>
+
+If we want a bigger value we can multiply it to get a bigger range for example -10 to 10:
+
+`10 * sin(t())`
+
+So if we use `sin` for the size of a circle, the circle will grow and shrink. 
 
 Note that half the time we won't see the cirlce when the size is negative.
 
@@ -19,8 +27,6 @@ function _draw()
 
   -- get time value
   time = t()
-
-
 
   -- size from sin
   size = 10*sin(time)
@@ -159,7 +165,7 @@ end
 
 Can you make a solar system or another cool animation using sin and cos?
 
-![[notes/images/sin_8.gif]]
+![[notes/images/sin_11.gif]]
 
 ### Next
 
