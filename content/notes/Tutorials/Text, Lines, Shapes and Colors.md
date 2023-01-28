@@ -2,6 +2,8 @@
 title: "Text, Lines, Shapes & Color"
 ---
 
+⭐️ In this tutorial we will learn to draw simple shapes and colors~
+
 ### Hello Circle
 
 Pico-8 has a special function `_draw` that executes over and over
@@ -141,9 +143,11 @@ Here are some examples for inspiration!!
 
 ## Next
 
-> TODO
+⭐️ [[notes/Tutorials/Animating with Sin waves]]
 
-### Appendix
+<hr>
+
+#### Appendix
 
 Tips
 - You can capture screenshoits with `ctrl-6` and gifs with `ctrl-8` then `ctrl-9`. You will see an image popup on the top right that you can right click and save.

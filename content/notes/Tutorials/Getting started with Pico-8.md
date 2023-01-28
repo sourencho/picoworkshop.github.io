@@ -2,6 +2,8 @@
 title: "Getting started with Pico-8"
 ---
 
+⭐️ In this tutorial we will learn how to use Pico-8!
+
 ### Boot and Navigate
 
 Open [pico-8-edu.com](https://www.pico-8-edu.com/) and start trying out commands:
@@ -40,4 +42,4 @@ All of this is in the [[notes/Misc/Cheatsheet]] so don't worry about memorizing 
 
 ### Next
 
-Next we will draw our first image in Pico-8: [[notes/Tutorials/Text, Lines, Shapes and Colors]]
+⭐️ [[notes/Tutorials/Text, Lines, Shapes and Colors]]

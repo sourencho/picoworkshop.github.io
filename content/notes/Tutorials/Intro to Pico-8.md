@@ -62,4 +62,4 @@ end
 
 ### Next
 
-Next we will make our first cart in Pico-8: [[notes/Tutorials/Getting started with Pico-8]]
+⭐️ [[notes/Tutorials/Getting started with Pico-8]]
