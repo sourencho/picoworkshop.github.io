@@ -20,7 +20,11 @@ function _draw()
 end
 ```
 
-The screen is 128x128 pixels and the X and Y values flow right and down. To pick a color use a number.
+The screen is 128x128 pixels and the X and Y values flow right and down. 
+
+To pick a color use a number.
+
+<img src="/notes/images/color_reference.png" alt="colors" width="300"/>
 
 ![[notes/images/circfill.gif]]
 
@@ -135,9 +139,11 @@ Try drawing something fun with random!
 
 Now just play with what you've learned to draw whatever you feel like!
 
-Don't forget to refer to the [[notes/Misc/Cheatsheet]] if you need.
+Don't forget to refer to the [[notes/Misc/Cheatsheet]] if you need. These are the basic shapes and their functions:
 
-Here are some examples for inspiration!!
+<img src="/notes/images/drawing_reference.png" alt="basic_shapes" width="300"/>
+
+And here are some examples for inspiration!!
 
 > TODO EXAMPLES
 

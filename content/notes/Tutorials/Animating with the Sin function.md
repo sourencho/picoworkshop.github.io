@@ -117,9 +117,36 @@ Can you mofiy the code to make the circle change color over time. From red to pi
 
 ![[notes/images/sin_5.gif]]
 
+### Movement with sin
+
+Similar to how we change scale, we can change position using `sin` and get a looping animation.
+
+For example if we shift the `sin` range to be from 20 to 100 and pass it as the x and y position of a circle, it will move diagnally in a loop:
+
+```lua
+function _draw()
+  -- clear screen
+  cls()
+
+  -- get time value
+  time = t() / 4
+
+  -- change sin range to 0-1
+  s = (sin(time)+1)/2
+
+  -- set pos to sin range 20-100
+  pos = 20 + s*80
+
+  -- draw circle
+  circfill(pos, pos, 8, 12)
+end
+```
+
+![[notes/images/sin_12.gif]]
+
 ### Spinning with sin and cos!
 
-Something cool about sin and it's sibling cos is that it can create circular motion!
+Something cool about `sin` and it's sibling `cos` is that they can create circular motion!
 
 If you set the x position of a circle to `cos` and the y pos to `sin` you will see it spin in a circle
   
@@ -149,7 +176,7 @@ function _draw()
   x = center + r*cos(time)
   y = center + r*sin(time)
 
-  -- draw path
+  -- draw path just because it's nice
   circ(center,center,r,1)
 
   -- draw circle
@@ -170,3 +197,12 @@ Can you make a solar system or another cool animation using sin and cos?
 ### Next
 
 ⭐️ [[notes/Tutorials/Dithering Effect]]
+
+<hr>
+
+#### Appendix
+
+Resources
+- https://pico-8.fandom.com/wiki/Sin
+- https://www.alanzucconi.com/2016/02/03/2d-rotations/
+- 
