@@ -15,7 +15,6 @@ Tutorials
 - [[notes/Tutorials/5. Color by Position]]
 - [[notes/Tutorials/6. Particles]]
 - [[notes/Tutorials/7. Simulations]]
-- [[notes/Tutorials/Curves and Rotation]]
 
 Materials
 - [[notes/Misc/Cheatsheet]]
