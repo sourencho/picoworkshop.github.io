@@ -1,6 +1,6 @@
 name: sourencho
-enableToc: false
-openToc: true
+enableToc: true
+openToc: false
 enableLinkPreview: false
 enableLatex: true
 enableCodeBlockTitle: true

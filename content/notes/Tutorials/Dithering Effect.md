@@ -1,3 +1,0 @@
----
-title: "Dithering Effect"
----

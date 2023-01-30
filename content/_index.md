@@ -8,14 +8,13 @@ Pico-8 Creative Coding Workshop!
 - [[notes/OurCreations/Our Creations]]
 
 Tutorials
-- [[notes/Tutorials/Intro to Pico-8]]
-- [[notes/Tutorials/Getting started with Pico-8]]
-- [[notes/Tutorials/Text, Lines, Shapes and Colors]]
-- [[notes/Tutorials/Animating with the Sin function]]
-- [[notes/Tutorials/Dithering Effect]]
-- [[notes/Tutorials/Color by Position]]
-- [[notes/Tutorials/Particles]]
-- [[notes/Tutorials/Simulations]]
+- [[notes/Tutorials/1. Intro to Pico-8]]
+- [[notes/Tutorials/2. Getting started with Pico-8]]
+- [[notes/Tutorials/3. Text, Lines, Shapes and Colors]]
+- [[notes/Tutorials/4. Animating with Sin & Cos]]
+- [[notes/Tutorials/5. Color by Position]]
+- [[notes/Tutorials/6. Particles]]
+- [[notes/Tutorials/7. Simulations]]
 - [[notes/Tutorials/Curves and Rotation]]
 
 Materials
