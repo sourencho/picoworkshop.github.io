@@ -1,5 +1,6 @@
 ---
 title: "Our Creations"
+enableToc: false
 ---
 
 Visuals created from the workshop

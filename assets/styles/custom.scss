@@ -27,5 +27,98 @@
   --highlighted: #574010;
 }
 
-
-
+.pico8-palette {
+  font-family: var(--font-body);
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: baseline;
+  align-content: start;
+  border-radius: 0.4em;
+  overflow: hidden;
+  border: 1px solid rgba(20, 20, 20, 0.9); }
+  .pico8-palette + .pico8-palette {
+    margin-top: 1em; }
+  .pico8-palette > div {
+    padding: 0.6em 1em;
+    background: #000;
+    font-weight: 600;
+    color: #111; }
+    .pico8-palette > div.p8-0 {
+      background-color: #000;
+      color: #eee; }
+    .pico8-palette > div.p8-1 {
+      background-color: #1d2b53;
+      color: #eee; }
+    .pico8-palette > div.p8-2 {
+      background-color: #7e2553;
+      color: #eee; }
+    .pico8-palette > div.p8-3 {
+      background-color: #008751;
+      color: #eee; }
+    .pico8-palette > div.p8-4 {
+      background-color: #ab5236; }
+    .pico8-palette > div.p8-5 {
+      background-color: #5f574f; }
+    .pico8-palette > div.p8-6 {
+      background-color: #c2c3c7; }
+    .pico8-palette > div.p8-7 {
+      background-color: #fff1e8; }
+    .pico8-palette > div.p8-8 {
+      background-color: #ff004d; }
+    .pico8-palette > div.p8-9 {
+      background-color: #ffa300; }
+    .pico8-palette > div.p8-10 {
+      background-color: #ffec27; }
+    .pico8-palette > div.p8-11 {
+      background-color: #00e436; }
+    .pico8-palette > div.p8-12 {
+      background-color: #29adff; }
+    .pico8-palette > div.p8-13 {
+      background-color: #83769c; }
+    .pico8-palette > div.p8-14 {
+      background-color: #ff77a8; }
+    .pico8-palette > div.p8-15 {
+      background-color: #ffccaa; }
+    .pico8-palette > div.p8-128, .pico8-palette > div.p8--16 {
+      background-color: #291814;
+      color: #eee; }
+    .pico8-palette > div.p8-129, .pico8-palette > div.p8--15 {
+      background-color: #111D35;
+      color: #eee; }
+    .pico8-palette > div.p8-130, .pico8-palette > div.p8--14 {
+      background-color: #422136;
+      color: #eee; }
+    .pico8-palette > div.p8-131, .pico8-palette > div.p8--13 {
+      background-color: #125359;
+      color: #eee; }
+    .pico8-palette > div.p8-132, .pico8-palette > div.p8--12 {
+      background-color: #742F29;
+      color: #eee; }
+    .pico8-palette > div.p8-133, .pico8-palette > div.p8--11 {
+      background-color: #49333B;
+      color: #eee; }
+    .pico8-palette > div.p8-134, .pico8-palette > div.p8--10 {
+      background-color: #A28879; }
+    .pico8-palette > div.p8-135, .pico8-palette > div.p8--9 {
+      background-color: #F3EF7D; }
+    .pico8-palette > div.p8-136, .pico8-palette > div.p8--8 {
+      background-color: #BE1250;
+      color: #eee; }
+    .pico8-palette > div.p8-137, .pico8-palette > div.p8--7 {
+      background-color: #FF6C24; }
+    .pico8-palette > div.p8-138, .pico8-palette > div.p8--6 {
+      background-color: #A8E72E; }
+    .pico8-palette > div.p8-139, .pico8-palette > div.p8--5 {
+      background-color: #00B543; }
+    .pico8-palette > div.p8-140, .pico8-palette > div.p8--4 {
+      background-color: #065AB5;
+      color: #eee; }
+    .pico8-palette > div.p8-141, .pico8-palette > div.p8--3 {
+      background-color: #754665;
+      color: #eee; }
+    .pico8-palette > div.p8-142, .pico8-palette > div.p8--2 {
+      background-color: #FF6E59; }
+    .pico8-palette > div.p8-143, .pico8-palette > div.p8--1 {
+      background-color: #FF9D81; }

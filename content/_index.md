@@ -14,7 +14,6 @@ Tutorials
 - [[notes/Tutorials/4. Animating with Sin & Cos]]
 - [[notes/Tutorials/5. Color by Position]]
 - [[notes/Tutorials/6. Particles]]
-- [[notes/Tutorials/7. Simulations]]
 
 Materials
 - [[notes/Misc/Cheatsheet]]

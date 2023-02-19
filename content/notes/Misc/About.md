@@ -1,4 +1,5 @@
 ---
 title: "About"
+enableToc: true
 ---
 
