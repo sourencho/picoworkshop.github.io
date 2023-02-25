@@ -17,11 +17,6 @@ Pico-8 Resources
 	- [cheatsheet (site)](https://neko250.github.io/pico8-api/)
 
 Tweetcart Resources
-- Browse Tweetcarts!
-    -   [https://twitter.com/search?q=%23tweetcart](https://twitter.com/search?q=%23tweetcart)
-    -   [https://museum-of-tweetcart-history.neocities.org/](https://museum-of-tweetcart-history.neocities.org/)
-    -   [https://www.lexaloffle.com/bbs/?tid=39199](https://www.lexaloffle.com/bbs/?tid=39199)
-    -   [https://gamedevbrook.itch.io/tweetcart-showcase](https://gamedevbrook.itch.io/tweetcart-showcase)
 -   Tutorials
     - [https://demobasics.pixienop.net/tweetcarts/](https://demobasics.pixienop.net/tweetcarts/)
     - [https://rexcellentgames.com/minifying-tweetcarts/](https://rexcellentgames.com/minifying-tweetcarts/)

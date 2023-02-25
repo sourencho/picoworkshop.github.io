@@ -17,9 +17,8 @@ Tutorials
 
 Materials
 - [[notes/Misc/Cheatsheet]]
-- [[notes/Misc/Ideas]]
-- [[notes/Misc/Examples]]
 - [[notes/Misc/Resources]]
+- [[notes/Misc/Examples]]
 
 Misc
 - [[notes/Misc/About]]
