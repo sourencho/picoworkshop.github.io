@@ -18,11 +18,6 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Pico8 Workshop
+  Pico-8 Creative Coding Workshop
 page_title:
   "picoworshop.xyz"
-links:
-  - link_name: Twitter
-    link: https://twitter.com/sourencho
-  - link_name: GitHub
-    link: https://github.com/sourencho
