@@ -19,7 +19,7 @@ Students, add your work in the [class drive](https://drive.google.com/drive/fold
 ![[notes/creations/maxim/SunEarthMoon.gif]]
 *Sun Earth Moon - Maxim*
 
-![[notes/creations/Emile/waves.gif]]
+![[notes/creations/emile/waves.gif]]
 *Waves - Emile*
 
 ![[notes/creations/leon/sun.gif]]
@@ -40,8 +40,17 @@ Students, add your work in the [class drive](https://drive.google.com/drive/fold
 ![[notes/creations/anton/ball with circle anton.gif]]
 *Ball with Circle - Anton*
 
+![[notes/creations/dorian/looping_circles.gif]]
+*Looping Circles - Dorian*
+
+![[notes/creations/evan/wave_evan.gif]]
+*Wave - Evan*
+
 ![[notes/creations/cyprien/wave.gif]]
 *Wave - Cyprien*
 
 ![[notes/creations/cyprien/circles.gif]]
 *Circles - Cyprien*
+
+![[notes/creations/maxim/gears.gif]]
+*Gears - Maxim*
