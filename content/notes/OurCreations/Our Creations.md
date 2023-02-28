@@ -19,7 +19,19 @@ Students, add your work in the [class drive](https://drive.google.com/drive/fold
 *Sun Earth Moon - Maxim Guillot*
 
 ![[notes/creations/Emile/waves.gif]]
-Waves - Emile Azizaj
+*Waves - Emile Azizaj*
 
 ![[notes/creations/leon/sun.gif]]
-Sun - Léon Mouisset
+*Sun - Léon Mouisset*
+
+![[notes/creations/lubin/kamehameha.gif]]
+*Kamehameha - Lubin Grenet*
+
+![[notes/creations/assia/reverse.gif]]
+*Reverse - Assia Laoukili*
+
+![[notes/creations/henri/RainbowCircles.gif]]
+*Rainbow Circles - Henri-Christian Yngu*
+
+![[notes/creations/graig/colorful_circles.gif]]
+*Colorful Circles - Graig Lowen Nzouba*
