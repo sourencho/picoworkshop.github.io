@@ -5,10 +5,9 @@ title: Pico Workshop
 <img src="/notes/images/pico8_postcard.png" alt="pico8" width="380"/>
 
 Homepage for the [Tumo Paris](https://paris.tumo.fr) Creative Coding workshop taught by [Souren](https://www.sourencho.com/) in February 2023.
-<br>
-These materials were used both as a teaching guide and as a reference for the students.
-<br>
-You can browse the results of the workshop in [[notes/OurCreations/Our Creations]]
+
+Outcome
+- [[notes/OurCreations/Our Creations]]
 
 Tutorials
 - [[notes/Tutorials/1. Intro to Pico-8]]

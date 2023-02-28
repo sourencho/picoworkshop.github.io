@@ -8,30 +8,40 @@ Visuals created during the workshop
 Students, add your work in the [class drive](https://drive.google.com/drive/folders/1lZMSExjUpqmco1CJb0JOoFzhGJgZwcCYnJ5wSRWUHmN6FDYuxC5zqefmRokVLnYcrVsIZWPK?usp=sharing) under your name~
 
 ![[notes/creations/julien/balles colorées.gif]] 
-*Balles Colores - Julien Castan* 
+*Balles Colores - Julien*
+
 ![[notes/creations/cyprien/boids.gif]]
-*Boids - Cyprien Bourotte* 
+*Boids - Cyprien* 
 
 ![[notes/creations/samantha/rainbow.gif]]
-*Rainbow - Samantha Zamorano*
+*Rainbow - Samantha*
 
 ![[notes/creations/maxim/SunEarthMoon.gif]]
-*Sun Earth Moon - Maxim Guillot*
+*Sun Earth Moon - Maxim*
 
 ![[notes/creations/Emile/waves.gif]]
-*Waves - Emile Azizaj*
+*Waves - Emile*
 
 ![[notes/creations/leon/sun.gif]]
-*Sun - Léon Mouisset*
+*Sun - Léon*
 
 ![[notes/creations/lubin/kamehameha.gif]]
-*Kamehameha - Lubin Grenet*
+*Kamehameha - Lubin*
 
 ![[notes/creations/assia/reverse.gif]]
-*Reverse - Assia Laoukili*
+*Reverse - Assia*
 
 ![[notes/creations/henri/RainbowCircles.gif]]
-*Rainbow Circles - Henri-Christian Yngu*
+*Rainbow Circles - Henri-Christian*
 
 ![[notes/creations/graig/colorful_circles.gif]]
-*Colorful Circles - Graig Lowen Nzouba*
+*Colorful Circles - Graig*
+
+![[notes/creations/anton/ball with circle anton.gif]]
+*Ball with Circle - Anton*
+
+![[notes/creations/cyprien/wave.gif]]
+*Wave - Cyprien*
+
+![[notes/creations/cyprien/circles.gif]]
+*Circles - Cyprien*
