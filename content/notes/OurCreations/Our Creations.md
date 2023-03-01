@@ -23,6 +23,7 @@ Students, add your work in the [class drive](https://drive.google.com/drive/fold
 *Waves - Emile*
 
 ![[notes/creations/leon/sun.gif]]
+
 *Sun - Léon*
 
 ![[notes/creations/lubin/kamehameha.gif]]
@@ -76,3 +77,29 @@ Students, add your work in the [class drive](https://drive.google.com/drive/fold
 ![[notes/creations/emile_2/fireball.gif]]
 *Fireball - Emile*
 
+![[notes/creations/graig/bloom-gif.gif]]
+*Bloom - Graig*
+
+![[notes/creations/graig/cyclop_gif.gif]]
+*Cyclop - Graig*
+
+![[notes/creations/henri/lines.gif]]
+*Lines - Henri-Christian*
+
+![[notes/creations/julien/4 balls around the rainbow.gif]]
+*Four Balls Around the Rainbow - Julien*
+
+![[notes/creations/leon/burn.gif]]
+*Burn - Léon*
+
+![[notes/creations/lubin/Star road.gif]]
+*Star Road - Lubin*
+
+![[notes/creations/maxim/rainbowshuriken.gif]]
+*Rainbow Shuriken - Maxim*
+
+![[notes/creations/maxim/meteor.gif]]
+*Meteor - Maxim*
+
+![[notes/creations/samantha/spincirc.gif]]
+*Spin Circ - Samantha*
