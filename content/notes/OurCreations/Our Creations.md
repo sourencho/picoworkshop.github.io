@@ -19,7 +19,7 @@ Students, add your work in the [class drive](https://drive.google.com/drive/fold
 ![[notes/creations/maxim/SunEarthMoon.gif]]
 *Sun Earth Moon - Maxim*
 
-![[notes/creations/emile/waves.gif]]
+![[notes/creations/emile_2/waves.gif]]
 *Waves - Emile*
 
 ![[notes/creations/leon/sun.gif]]
