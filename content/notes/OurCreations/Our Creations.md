@@ -43,6 +43,9 @@ Students, add your work in the [class drive](https://drive.google.com/drive/fold
 ![[notes/creations/dorian/looping_circles.gif]]
 *Looping Circles - Dorian*
 
+![[notes/creations/come/fireball.gif]]
+*Fireball - Côme*
+
 ![[notes/creations/evan/wave_evan.gif]]
 *Wave - Evan*
 
@@ -54,3 +57,22 @@ Students, add your work in the [class drive](https://drive.google.com/drive/fold
 
 ![[notes/creations/maxim/gears.gif]]
 *Gears - Maxim*
+
+![[notes/creations/assia/cells.gif]]
+*Cells - Assia*
+
+![[notes/creations/come/expload.gif]]
+*Explode - Côme*
+
+![[notes/creations/cyprien/sky.gif]]
+*Sky - Cyprien*
+
+![[notes/creations/dorian/spray.gif]]
+*Spray - Dorian*
+
+![[notes/creations/dorian/rainbow2.gif]]
+*Rainbow - Dorian*
+
+![[notes/creations/emile_2/fireball.gif]]
+*Fireball - Emile*
+
