@@ -26,7 +26,7 @@ Visuals created during the workshop!
 | ![[notes/creations/dorian/spray.gif]]<br>Spray<br>*Dorian*   | ![[notes/creations/dorian/rainbow2.gif]]<br>Rainbow<br>*Dorian*        |
 | ![[notes/creations/emile_2/fireball.gif]]<br>Fireball<br>*Emile*   | ![[notes/creations/leon/burn.gif]]<br>Burn<br>*Léon*        |
 | ![[notes/creations/graig/bloom-gif.gif]]<br>Bloom<br>*Graig* | ![[notes/creations/graig/cyclop_gif.gif]]<br>Cyclop<br>*Graig* |
-| ![[notes/creations/henri/lines.gif]]<br>Lines<br>*Henri-Christian* |  ![[notes/creations/julien/4 balls around the rainbow.gif]]<br>4 Around the Rainbow<br>*Julien* |
+| ![[notes/creations/henri/lines.gif]]<br>Lines<br>*Henri-Christian* |  ![[notes/creations/julien/4 balls around the rainbow.gif]]<br>Around the Rainbow<br>*Julien* |
 | ![[notes/creations/lubin/Star road.gif]]<br>Star Road<br>*Lubin* | ![[notes/creations/maxim/rainbowshuriken.gif]]<br>Rainbow Shuriken<br>*Maxim*        |
 | ![[notes/creations/maxim/meteor.gif]]<br>Meteor<br>*Maxim*   | ![[notes/creations/samantha/spincirc.gif]]<br>Spin Circ<br>*Samantha*        |
 | ![[notes/creations/julien/the_cataclysm.gif]]<br>The Cataclysm<br>*Julien*  |![[notes/creations/lubin/starexplosiongif.gif]]<br>Star Explosion<br>*Lubin*        |
