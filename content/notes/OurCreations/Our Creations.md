@@ -8,7 +8,8 @@ table, tr, td, th {
 }
 </style>
 
-Visuals created during the workshop!
+Visuals created during the workshop; sorted in order of creation~
+
 
 |       |  |
 | ----------- | ----------- |
