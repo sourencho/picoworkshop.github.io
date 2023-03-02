@@ -29,7 +29,9 @@ Visuals created during the workshop!
 | ![[notes/creations/henri/lines.gif]]<br>Lines<br>*Henri-Christian* |  ![[notes/creations/julien/4 balls around the rainbow.gif]]<br>4 Around the Rainbow<br>*Julien* |
 | ![[notes/creations/lubin/Star road.gif]]<br>Star Road<br>*Lubin* | ![[notes/creations/maxim/rainbowshuriken.gif]]<br>Rainbow Shuriken<br>*Maxim*        |
 | ![[notes/creations/maxim/meteor.gif]]<br>Meteor<br>*Maxim*   | ![[notes/creations/samantha/spincirc.gif]]<br>Spin Circ<br>*Samantha*        |
-| 1   | 2        |
+| ![[notes/creations/julien/the_cataclysm.gif]]<br>The Cataclysm<br>*Julien*  |![[notes/creations/lubin/starexplosiongif.gif]]<br>Star Explosion<br>*Lubin*        |
+| ![[notes/creations/samantha/fairrial lights.gif]]<br>Feral Lights<br>*Samantha*| ![[notes/creations/samantha/solar system.gif]]<br>Solar System<br>Samantha |
+| | ![[notes/creations/maxim/GPTs_GoLgif.gif]]<br>GPTs GoL<br>*Maxim*|
 
 
 ​​​
