@@ -4,7 +4,7 @@ title: Pico Workshop
 
 <img src="/notes/images/pico8_postcard.png" alt="pico8" width="380"/>
 
-Homepage for the [Tumo Paris](https://paris.tumo.fr) Creative Coding workshop for teenagers taught to by [Souren](https://www.sourencho.com/) in February 2023.
+Homepage for the Creative Coding workshop for teenagers taught by [Souren](https://www.sourencho.com/) in Paris, February 2023.
 
 Outcome
 - [[notes/OurCreations/Our Creations]]
