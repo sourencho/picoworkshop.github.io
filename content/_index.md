@@ -5,7 +5,7 @@ title: Pico Workshop
 <img src="/notes/images/pico8_postcard.png" alt="pico8" width="380"/>
 
 Homepage for a Pico-8 Creative Coding workshop!<br>
-The first iteration was taught to teens over 5 days in Paris, February 2023 by [Souren](https://www.sourencho.com/).
+The first iteration was taught to teens over 5 days in February 2023 by [Souren](https://www.sourencho.com/).
 
 Outcome
 - [[notes/OurCreations/Our Creations]]
