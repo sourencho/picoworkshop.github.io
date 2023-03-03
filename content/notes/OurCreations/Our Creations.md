@@ -41,3 +41,9 @@ Visuals created during the workshop; sorted in order of creation~
 |![[notes/creations/julien/project_rocket.gif]]<br>Project Rocket<br>*Julien*|![[notes/creations/leon/spread.gif]]<br>Spread<br>*Léon*|
 |![[notes/creations/samantha/among us.gif]]<br>Amon Us<br>*Samantha*|![[notes/creations/samantha/among us ball.gif]]<br>Among Us Ball<br>*Samantha*|
 |![[notes/creations/maxim/valleyRoad.gif]]<br>Valley Road<br>*Maxim*|![[notes/creations/dorian/virus.gif]]<br>Virus<br>*Dorian*|
+|![[notes/creations/graig/moon reflection.gif]]<br>Moon Reflection<br>*Graig* |![[notes/creations/emile_2/baddapple.gif]]<br>Bad Apple<br>*Emile*|
+|![[notes/creations/assia/the moon and the sun.gif]]<br>Moon & Sun<br>*Assia*|![[notes/creations/assia/waouh.gif]]<br>Waouh<br>*Assia*
+|![[notes/creations/assia/the matrix screen..gif]]<br>Matrix Screen<br>*Assia* |![[notes/creations/anton/candle.gif]]<br>Candle<br>*Anton*|
+|![[notes/creations/cyprien/sphere.gif]]<br>Sphere<br>*Cyprien*|![[notes/creations/cyprien/graph.gif]]<br>Graph<br>*Cyprien*|
+
+
